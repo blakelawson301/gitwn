@@ -1,7 +1,4 @@
 class SimplePagesController < ApplicationController
-  def about
-  end
-
-  def contact
+  def index
   end
 end

@@ -1,3 +1,17 @@
 // Place all the styles related to the simple_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+  color:blue;
+  text-shadow: 4px 3px black;
+  font-size:50px;
+  text-align: center;
+}
+p{
+  color: white;
+}
+footer{
+  display: block;
+  background: black;
+}
